@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Desktop/Tengrix_pract"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tengrix_pract"
+	}
+}
